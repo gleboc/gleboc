@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gleboc
+- 👀 I’m interested in Data Science and Full-Stack development
+- 🌱 I’m currently trying to learn React.js. So don't hesitate to contact me, I'll be happy to help you on your projects 💞️
